@@ -52,6 +52,7 @@ function draw() {
   ground.show();
   leftWall.show();
   rightWall.show();
+  bridge.show();
 
   for (var stone of stones) {
     stone.show();
